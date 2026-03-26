@@ -1,0 +1,1115 @@
+2026-03-26 18:23:49,311 - Orchestrator - INFO - Orchestrator initialized for vault: D:\WMD\AI-employee\hackaton-AI-Employee\AI_Employee_Vault
+2026-03-26 18:23:49,327 - ActionExecutor - INFO - Moved TEST_MOVE_TO_DONE.md to Done
+2026-03-26 18:23:49,327 - QwenCodeRunner - INFO - Processed: FILE_DROP_invoice_test.md
+2026-03-26 18:23:49,327 - ActionExecutor - INFO - Moved FILE_DROP_invoice_test.md to Done
+2026-03-26 18:23:49,327 - ActionExecutor - INFO - Action logged: Processed invoice file
+2026-03-26 18:23:49,342 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 18:23:49,342 - Orchestrator - INFO - Processing 3 pending item(s)
+2026-03-26 18:23:49,342 - QwenCodeRunner - INFO - Processed: BATCH_TEST_0.md
+2026-03-26 18:23:49,358 - Orchestrator - INFO - Qwen output for BATCH_TEST_0.md:
+2026-03-26 18:23:49,358 - Orchestrator - INFO - 
+## Processing: BATCH_TEST_0.md
+
+**Analysis:**
+- Item reviewed according to Company Handbook rules
+- No sensitive actions required
+- Standard processing applied
+
+**Actions Taken:**
+1. Read and analyze...
+2026-03-26 18:23:49,358 - ActionExecutor - INFO - Moved BATCH_TEST_0.md to Done
+2026-03-26 18:23:49,358 - Orchestrator - INFO - Action executed: move_to_done -> BATCH_TEST_0.md
+2026-03-26 18:23:49,358 - ActionExecutor - INFO - Action logged: Completed generic processing
+2026-03-26 18:23:49,358 - Orchestrator - INFO - Action executed: log_action -> Completed generic processing
+2026-03-26 18:23:49,358 - QwenCodeRunner - INFO - Processed: BATCH_TEST_1.md
+2026-03-26 18:23:49,358 - Orchestrator - INFO - Qwen output for BATCH_TEST_1.md:
+2026-03-26 18:23:49,358 - Orchestrator - INFO - 
+## Processing: BATCH_TEST_1.md
+
+**Analysis:**
+- Item reviewed according to Company Handbook rules
+- No sensitive actions required
+- Standard processing applied
+
+**Actions Taken:**
+1. Read and analyze...
+2026-03-26 18:23:49,374 - ActionExecutor - INFO - Moved BATCH_TEST_1.md to Done
+2026-03-26 18:23:49,374 - Orchestrator - INFO - Action executed: move_to_done -> BATCH_TEST_1.md
+2026-03-26 18:23:49,374 - ActionExecutor - INFO - Action logged: Completed generic processing
+2026-03-26 18:23:49,374 - Orchestrator - INFO - Action executed: log_action -> Completed generic processing
+2026-03-26 18:23:49,374 - QwenCodeRunner - INFO - Processed: BATCH_TEST_2.md
+2026-03-26 18:23:49,374 - Orchestrator - INFO - Qwen output for BATCH_TEST_2.md:
+2026-03-26 18:23:49,374 - Orchestrator - INFO - 
+## Processing: BATCH_TEST_2.md
+
+**Analysis:**
+- Item reviewed according to Company Handbook rules
+- No sensitive actions required
+- Standard processing applied
+
+**Actions Taken:**
+1. Read and analyze...
+2026-03-26 18:23:49,374 - ActionExecutor - INFO - Moved BATCH_TEST_2.md to Done
+2026-03-26 18:23:49,374 - Orchestrator - INFO - Action executed: move_to_done -> BATCH_TEST_2.md
+2026-03-26 18:23:49,374 - ActionExecutor - INFO - Action logged: Completed generic processing
+2026-03-26 18:23:49,374 - Orchestrator - INFO - Action executed: log_action -> Completed generic processing
+2026-03-26 18:28:37,499 - Orchestrator - INFO - Orchestrator initialized for vault: D:\WMD\AI-employee\hackaton-AI-Employee\AI_Employee_Vault
+2026-03-26 18:28:37,499 - Orchestrator - INFO - ============================================================
+2026-03-26 18:28:37,499 - Orchestrator - INFO - AI Employee Orchestrator - Bronze Tier
+2026-03-26 18:28:37,499 - Orchestrator - INFO - ============================================================
+2026-03-26 18:28:37,499 - Orchestrator - INFO - Vault: D:\WMD\AI-employee\hackaton-AI-Employee\AI_Employee_Vault
+2026-03-26 18:28:37,499 - Orchestrator - INFO - Auto-processing: Enabled
+2026-03-26 18:28:37,499 - Orchestrator - INFO - ============================================================
+2026-03-26 18:28:37,499 - Orchestrator - INFO - Starting watcher: simple_file_watcher.py
+2026-03-26 18:28:37,514 - Orchestrator - INFO - File watcher started
+2026-03-26 18:28:37,514 - Orchestrator - INFO - Entering main loop... (Press Ctrl+C to stop)
+2026-03-26 18:28:37,514 - Orchestrator - INFO - 
+2026-03-26 18:28:37,530 - Orchestrator - INFO - --- Processing Cycle 1 ---
+2026-03-26 18:28:37,530 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:28:37,530 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:28:37,530 - Orchestrator - INFO - Dashboard updated: 0 pending, 5 completed
+2026-03-26 18:28:44,333 - Orchestrator - INFO - 
+2026-03-26 18:28:44,333 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-26 18:28:44,349 - Orchestrator - INFO - Dashboard updated: 0 pending, 5 completed
+2026-03-26 18:28:44,349 - Orchestrator - INFO - Stopping all watchers...
+2026-03-26 18:28:44,349 - Orchestrator - INFO - Watcher terminated: 7876
+2026-03-26 18:28:44,349 - Orchestrator - INFO - Orchestrator shutdown complete
+2026-03-26 18:28:48,376 - Orchestrator - INFO - Orchestrator initialized for vault: D:\WMD\AI-employee\hackaton-AI-Employee\AI_Employee_Vault
+2026-03-26 18:28:48,376 - Orchestrator - INFO - ============================================================
+2026-03-26 18:28:48,376 - Orchestrator - INFO - AI Employee Orchestrator - Bronze Tier
+2026-03-26 18:28:48,376 - Orchestrator - INFO - ============================================================
+2026-03-26 18:28:48,376 - Orchestrator - INFO - Vault: D:\WMD\AI-employee\hackaton-AI-Employee\AI_Employee_Vault
+2026-03-26 18:28:48,376 - Orchestrator - INFO - Auto-processing: Enabled
+2026-03-26 18:28:48,376 - Orchestrator - INFO - ============================================================
+2026-03-26 18:28:48,376 - Orchestrator - INFO - Starting watcher: simple_file_watcher.py
+2026-03-26 18:28:48,391 - Orchestrator - INFO - File watcher started
+2026-03-26 18:28:48,391 - Orchestrator - INFO - Entering main loop... (Press Ctrl+C to stop)
+2026-03-26 18:28:48,391 - Orchestrator - INFO - 
+2026-03-26 18:28:48,391 - Orchestrator - INFO - --- Processing Cycle 1 ---
+2026-03-26 18:28:48,391 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:28:48,391 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:28:48,407 - Orchestrator - INFO - Dashboard updated: 0 pending, 5 completed
+2026-03-26 18:29:18,416 - Orchestrator - INFO - --- Processing Cycle 7 ---
+2026-03-26 18:29:18,416 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:29:18,416 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:29:48,422 - Orchestrator - INFO - --- Processing Cycle 13 ---
+2026-03-26 18:29:48,422 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:29:48,422 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:29:48,422 - Orchestrator - INFO - Dashboard updated: 0 pending, 5 completed
+2026-03-26 18:30:18,438 - Orchestrator - INFO - --- Processing Cycle 19 ---
+2026-03-26 18:30:18,440 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:30:18,441 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:30:48,445 - Orchestrator - INFO - --- Processing Cycle 25 ---
+2026-03-26 18:30:48,446 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:30:48,448 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:30:48,455 - Orchestrator - INFO - Dashboard updated: 0 pending, 5 completed
+2026-03-26 18:31:18,459 - Orchestrator - INFO - --- Processing Cycle 31 ---
+2026-03-26 18:31:18,459 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:31:18,459 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:31:48,465 - Orchestrator - INFO - --- Processing Cycle 37 ---
+2026-03-26 18:31:48,465 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:31:48,465 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:31:48,465 - Orchestrator - INFO - Dashboard updated: 0 pending, 5 completed
+2026-03-26 18:32:18,478 - Orchestrator - INFO - --- Processing Cycle 43 ---
+2026-03-26 18:32:18,479 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:32:18,482 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:32:48,485 - Orchestrator - INFO - --- Processing Cycle 49 ---
+2026-03-26 18:32:48,485 - Orchestrator - INFO - Processing 1 pending item(s)
+2026-03-26 18:32:48,485 - QwenCodeRunner - INFO - Processed: FILE_DROP_Test_file_20260326_183238.md
+2026-03-26 18:32:48,485 - Orchestrator - INFO - Qwen output for FILE_DROP_Test_file_20260326_183238.md:
+2026-03-26 18:32:48,485 - Orchestrator - INFO - 
+## Processing: FILE_DROP_Test_file_20260326_183238.md
+
+**Analysis:**
+- Type: document
+- Status: Requires categorization
+- Priority: Normal
+
+**Actions Taken:**
+1. Reviewed file contents
+2. Categorized...
+2026-03-26 18:32:48,485 - ActionExecutor - INFO - Moved FILE_DROP_Test_file_20260326_183238.md to Done
+2026-03-26 18:32:48,485 - Orchestrator - INFO - Action executed: move_to_done -> FILE_DROP_Test_file_20260326_183238.md
+2026-03-26 18:32:48,485 - ActionExecutor - INFO - Action logged: Processed document file
+2026-03-26 18:32:48,485 - Orchestrator - INFO - Action executed: log_action -> Processed document file
+2026-03-26 18:32:48,485 - Orchestrator - INFO - Processed 1 pending item(s)
+2026-03-26 18:32:48,501 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:32:48,516 - Orchestrator - INFO - Dashboard updated: 0 pending, 6 completed
+2026-03-26 18:33:18,519 - Orchestrator - INFO - --- Processing Cycle 55 ---
+2026-03-26 18:33:18,519 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:33:18,525 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:33:48,527 - Orchestrator - INFO - --- Processing Cycle 61 ---
+2026-03-26 18:33:48,528 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:33:48,530 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:33:48,542 - Orchestrator - INFO - Dashboard updated: 0 pending, 6 completed
+2026-03-26 18:34:18,546 - Orchestrator - INFO - --- Processing Cycle 67 ---
+2026-03-26 18:34:18,547 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:34:18,550 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:34:48,554 - Orchestrator - INFO - --- Processing Cycle 73 ---
+2026-03-26 18:34:48,555 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:34:48,557 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:34:48,562 - Orchestrator - INFO - Dashboard updated: 0 pending, 0 completed
+2026-03-26 18:35:09,876 - Orchestrator - INFO - 
+2026-03-26 18:35:09,876 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-26 18:35:09,876 - Orchestrator - INFO - Dashboard updated: 0 pending, 0 completed
+2026-03-26 18:35:09,891 - Orchestrator - INFO - Stopping all watchers...
+2026-03-26 18:35:09,891 - Orchestrator - INFO - Watcher terminated: 12952
+2026-03-26 18:35:09,891 - Orchestrator - INFO - Orchestrator shutdown complete
+2026-03-26 18:40:36,617 - Orchestrator - INFO - Orchestrator initialized for vault: D:\WMD\AI-employee\hackaton-AI-Employee\AI_Employee_Vault
+2026-03-26 18:40:36,617 - Orchestrator - INFO - ============================================================
+2026-03-26 18:40:36,617 - Orchestrator - INFO - AI Employee Orchestrator - Bronze Tier
+2026-03-26 18:40:36,617 - Orchestrator - INFO - ============================================================
+2026-03-26 18:40:36,617 - Orchestrator - INFO - Vault: D:\WMD\AI-employee\hackaton-AI-Employee\AI_Employee_Vault
+2026-03-26 18:40:36,617 - Orchestrator - INFO - Auto-processing: Enabled
+2026-03-26 18:40:36,617 - Orchestrator - INFO - ============================================================
+2026-03-26 18:40:36,617 - Orchestrator - INFO - Starting watcher: simple_file_watcher.py
+2026-03-26 18:40:36,633 - Orchestrator - INFO - File watcher started
+2026-03-26 18:40:36,633 - Orchestrator - INFO - Entering main loop... (Press Ctrl+C to stop)
+2026-03-26 18:40:36,633 - Orchestrator - INFO - 
+2026-03-26 18:40:36,633 - Orchestrator - INFO - --- Processing Cycle 1 ---
+2026-03-26 18:40:36,633 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:40:36,633 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:40:36,649 - Orchestrator - INFO - Dashboard updated: 0 pending, 0 completed
+2026-03-26 18:41:06,655 - Orchestrator - INFO - --- Processing Cycle 7 ---
+2026-03-26 18:41:06,655 - Orchestrator - INFO - Processing 1 pending item(s)
+2026-03-26 18:41:06,655 - QwenCodeRunner - INFO - Processed: FILE_DROP_Test_file_20260326_184036.md
+2026-03-26 18:41:06,655 - Orchestrator - INFO - Qwen output for FILE_DROP_Test_file_20260326_184036.md:
+2026-03-26 18:41:06,655 - Orchestrator - INFO - 
+## Processing: FILE_DROP_Test_file_20260326_184036.md
+
+**Analysis:**
+- Type: document
+- Status: Requires categorization
+- Priority: Normal
+
+**Actions Taken:**
+1. Reviewed file contents
+2. Categorized...
+2026-03-26 18:41:06,655 - ActionExecutor - INFO - Moved FILE_DROP_Test_file_20260326_184036.md to Done
+2026-03-26 18:41:06,655 - Orchestrator - INFO - Action executed: move_to_done -> FILE_DROP_Test_file_20260326_184036.md
+2026-03-26 18:41:06,655 - ActionExecutor - INFO - Action logged: Processed document file
+2026-03-26 18:41:06,655 - Orchestrator - INFO - Action executed: log_action -> Processed document file
+2026-03-26 18:41:06,655 - Orchestrator - INFO - Processed 1 pending item(s)
+2026-03-26 18:41:06,655 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:41:36,687 - Orchestrator - INFO - --- Processing Cycle 13 ---
+2026-03-26 18:41:36,688 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:41:36,690 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:41:36,696 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 18:42:06,711 - Orchestrator - INFO - --- Processing Cycle 19 ---
+2026-03-26 18:42:06,711 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:42:06,711 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:42:36,717 - Orchestrator - INFO - --- Processing Cycle 25 ---
+2026-03-26 18:42:36,717 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:42:36,717 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:42:36,717 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 18:43:06,726 - Orchestrator - INFO - --- Processing Cycle 31 ---
+2026-03-26 18:43:06,728 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:43:06,729 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:43:36,732 - Orchestrator - INFO - --- Processing Cycle 37 ---
+2026-03-26 18:43:36,732 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:43:36,732 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:43:36,732 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 18:44:06,743 - Orchestrator - INFO - --- Processing Cycle 43 ---
+2026-03-26 18:44:06,744 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:44:06,748 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:44:36,752 - Orchestrator - INFO - --- Processing Cycle 49 ---
+2026-03-26 18:44:36,752 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:44:36,752 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:44:36,761 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 18:45:06,765 - Orchestrator - INFO - --- Processing Cycle 55 ---
+2026-03-26 18:45:06,765 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:45:06,765 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:45:36,772 - Orchestrator - INFO - --- Processing Cycle 61 ---
+2026-03-26 18:45:36,772 - Orchestrator - INFO - Processing 1 pending item(s)
+2026-03-26 18:45:36,772 - QwenCodeRunner - INFO - Processed: FILE_DROP_test_invoice_20260326_184511.md
+2026-03-26 18:45:36,772 - Orchestrator - INFO - Qwen output for FILE_DROP_test_invoice_20260326_184511.md:
+2026-03-26 18:45:36,772 - Orchestrator - INFO - 
+## Processing: FILE_DROP_test_invoice_20260326_184511.md
+
+**Analysis:**
+- Type: invoice
+- Status: Requires categorization
+- Priority: Normal
+
+**Actions Taken:**
+1. Reviewed file contents
+2. Categoriz...
+2026-03-26 18:45:36,772 - ActionExecutor - INFO - Moved FILE_DROP_test_invoice_20260326_184511.md to Done
+2026-03-26 18:45:36,772 - Orchestrator - INFO - Action executed: move_to_done -> FILE_DROP_test_invoice_20260326_184511.md
+2026-03-26 18:45:36,772 - ActionExecutor - INFO - Action logged: Processed invoice file
+2026-03-26 18:45:36,772 - Orchestrator - INFO - Action executed: log_action -> Processed invoice file
+2026-03-26 18:45:36,772 - Orchestrator - INFO - Processed 1 pending item(s)
+2026-03-26 18:45:36,772 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:45:36,787 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 18:46:06,797 - Orchestrator - INFO - --- Processing Cycle 67 ---
+2026-03-26 18:46:06,797 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:46:06,797 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:46:36,824 - Orchestrator - INFO - --- Processing Cycle 73 ---
+2026-03-26 18:46:36,839 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:46:36,883 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:46:36,908 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 18:47:06,914 - Orchestrator - INFO - --- Processing Cycle 79 ---
+2026-03-26 18:47:06,914 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:47:06,914 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:47:36,921 - Orchestrator - INFO - --- Processing Cycle 85 ---
+2026-03-26 18:47:36,921 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:47:36,921 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:47:36,921 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 18:48:06,933 - Orchestrator - INFO - --- Processing Cycle 91 ---
+2026-03-26 18:48:06,933 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:48:06,933 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:48:36,961 - Orchestrator - INFO - --- Processing Cycle 97 ---
+2026-03-26 18:48:36,961 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:48:36,961 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:48:36,961 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 18:49:06,972 - Orchestrator - INFO - --- Processing Cycle 103 ---
+2026-03-26 18:49:06,972 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:49:06,972 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:49:36,979 - Orchestrator - INFO - --- Processing Cycle 109 ---
+2026-03-26 18:49:36,979 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:49:36,979 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:49:36,979 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 18:50:06,991 - Orchestrator - INFO - --- Processing Cycle 115 ---
+2026-03-26 18:50:06,991 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:50:06,991 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:50:36,996 - Orchestrator - INFO - --- Processing Cycle 121 ---
+2026-03-26 18:50:36,996 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:50:36,996 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:50:36,996 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 18:51:07,009 - Orchestrator - INFO - --- Processing Cycle 127 ---
+2026-03-26 18:51:07,009 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:51:07,009 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:51:37,018 - Orchestrator - INFO - --- Processing Cycle 133 ---
+2026-03-26 18:51:37,021 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:51:37,028 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:51:37,065 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 18:52:07,071 - Orchestrator - INFO - --- Processing Cycle 139 ---
+2026-03-26 18:52:07,074 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:52:07,076 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:52:37,083 - Orchestrator - INFO - --- Processing Cycle 145 ---
+2026-03-26 18:52:37,083 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:52:37,083 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:52:37,083 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 18:53:02,230 - Orchestrator - INFO - Orchestrator initialized for vault: D:\WMD\AI-employee\hackaton-AI-Employee\AI_Employee_Vault
+2026-03-26 18:53:02,230 - Orchestrator - INFO - Integration mode: simulation
+2026-03-26 18:53:02,230 - ActionExecutor - INFO - ✓ Moved TEST_MOVE_TO_DONE.md to Done
+2026-03-26 18:53:02,245 - ActionExecutor - INFO - ✓ Moved FILE_DROP_invoice_test.md to Pending_Approval (awaiting human review)
+2026-03-26 18:53:02,245 - ActionExecutor - INFO - ✓ Logged: Invoice for $2026.00 requires approval
+2026-03-26 18:53:02,245 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 18:53:02,261 - Orchestrator - INFO - Processing 3 pending item(s)
+2026-03-26 18:53:02,261 - Orchestrator - INFO - ============================================================
+2026-03-26 18:53:02,261 - Orchestrator - INFO - Processing: BATCH_TEST_0.md
+2026-03-26 18:53:02,261 - Orchestrator - INFO - Qwen Code output:
+2026-03-26 18:53:02,261 - Orchestrator - INFO - 
+## Analysis
+Standard document. No special handling required.
+
+## Decision
+Processing and filing in Done folder.
+
+MOVE_TO_DONE: BATCH_TEST_0.md
+LOG_ACTION: Processed generic document
+
+2026-03-26 18:53:02,261 - Orchestrator - INFO - Qwen Code decided on 2 action(s)
+2026-03-26 18:53:02,261 - ActionExecutor - INFO - ✓ Moved BATCH_TEST_0.md to Done
+2026-03-26 18:53:02,261 - Orchestrator - INFO -   ✓ Executed: move_to_done -> BATCH_TEST_0.md
+2026-03-26 18:53:02,277 - ActionExecutor - INFO - ✓ Logged: Processed generic document
+2026-03-26 18:53:02,277 - Orchestrator - INFO -   ✓ Executed: log_action -> Processed generic document
+2026-03-26 18:53:02,277 - Orchestrator - INFO - ============================================================
+2026-03-26 18:53:02,277 - Orchestrator - INFO - Processing: BATCH_TEST_1.md
+2026-03-26 18:53:02,277 - Orchestrator - INFO - Qwen Code output:
+2026-03-26 18:53:02,277 - Orchestrator - INFO - 
+## Analysis
+Standard document. No special handling required.
+
+## Decision
+Processing and filing in Done folder.
+
+MOVE_TO_DONE: BATCH_TEST_1.md
+LOG_ACTION: Processed generic document
+
+2026-03-26 18:53:02,277 - Orchestrator - INFO - Qwen Code decided on 2 action(s)
+2026-03-26 18:53:02,277 - ActionExecutor - INFO - ✓ Moved BATCH_TEST_1.md to Done
+2026-03-26 18:53:02,277 - Orchestrator - INFO -   ✓ Executed: move_to_done -> BATCH_TEST_1.md
+2026-03-26 18:53:02,277 - ActionExecutor - INFO - ✓ Logged: Processed generic document
+2026-03-26 18:53:02,277 - Orchestrator - INFO -   ✓ Executed: log_action -> Processed generic document
+2026-03-26 18:53:02,292 - Orchestrator - INFO - ============================================================
+2026-03-26 18:53:02,292 - Orchestrator - INFO - Processing: BATCH_TEST_2.md
+2026-03-26 18:53:02,292 - Orchestrator - INFO - Qwen Code output:
+2026-03-26 18:53:02,292 - Orchestrator - INFO - 
+## Analysis
+Standard document. No special handling required.
+
+## Decision
+Processing and filing in Done folder.
+
+MOVE_TO_DONE: BATCH_TEST_2.md
+LOG_ACTION: Processed generic document
+
+2026-03-26 18:53:02,292 - Orchestrator - INFO - Qwen Code decided on 2 action(s)
+2026-03-26 18:53:02,292 - ActionExecutor - INFO - ✓ Moved BATCH_TEST_2.md to Done
+2026-03-26 18:53:02,292 - Orchestrator - INFO -   ✓ Executed: move_to_done -> BATCH_TEST_2.md
+2026-03-26 18:53:02,292 - ActionExecutor - INFO - ✓ Logged: Processed generic document
+2026-03-26 18:53:02,292 - Orchestrator - INFO -   ✓ Executed: log_action -> Processed generic document
+2026-03-26 18:53:07,095 - Orchestrator - INFO - --- Processing Cycle 151 ---
+2026-03-26 18:53:07,095 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:53:07,095 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:53:37,101 - Orchestrator - INFO - --- Processing Cycle 157 ---
+2026-03-26 18:53:37,101 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:53:37,101 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:53:37,101 - Orchestrator - INFO - Dashboard updated: 0 pending, 0 completed
+2026-03-26 18:54:07,113 - Orchestrator - INFO - --- Processing Cycle 163 ---
+2026-03-26 18:54:07,113 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:54:07,113 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:54:37,120 - Orchestrator - INFO - --- Processing Cycle 169 ---
+2026-03-26 18:54:37,121 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:54:37,123 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:54:37,128 - Orchestrator - INFO - Dashboard updated: 0 pending, 0 completed
+2026-03-26 18:55:07,132 - Orchestrator - INFO - --- Processing Cycle 175 ---
+2026-03-26 18:55:07,133 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:55:07,135 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:55:37,139 - Orchestrator - INFO - --- Processing Cycle 181 ---
+2026-03-26 18:55:37,140 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:55:37,142 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:55:37,147 - Orchestrator - INFO - Dashboard updated: 0 pending, 0 completed
+2026-03-26 18:56:07,149 - Orchestrator - INFO - --- Processing Cycle 187 ---
+2026-03-26 18:56:07,151 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:56:07,152 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:56:27,456 - Orchestrator - INFO - 
+2026-03-26 18:56:27,456 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-26 18:56:27,471 - Orchestrator - INFO - Dashboard updated: 0 pending, 0 completed
+2026-03-26 18:56:27,471 - Orchestrator - INFO - Stopping all watchers...
+2026-03-26 18:56:27,471 - Orchestrator - INFO - Watcher terminated: 11276
+2026-03-26 18:56:27,471 - Orchestrator - INFO - Orchestrator shutdown complete
+2026-03-26 18:59:10,893 - Orchestrator - INFO - Orchestrator initialized for vault: D:\WMD\AI-employee\hackaton-AI-Employee\AI_Employee_Vault
+2026-03-26 18:59:10,893 - Orchestrator - INFO - Integration mode: simulation
+2026-03-26 18:59:10,893 - Orchestrator - INFO - ============================================================
+2026-03-26 18:59:10,893 - Orchestrator - INFO - AI Employee Orchestrator - Bronze Tier
+2026-03-26 18:59:10,893 - Orchestrator - INFO - ============================================================
+2026-03-26 18:59:10,893 - Orchestrator - INFO - Vault: D:\WMD\AI-employee\hackaton-AI-Employee\AI_Employee_Vault
+2026-03-26 18:59:10,893 - Orchestrator - INFO - Integration Mode: simulation
+2026-03-26 18:59:10,893 - Orchestrator - INFO - Auto-processing: Enabled
+2026-03-26 18:59:10,893 - Orchestrator - INFO - Qwen Check Interval: 30s
+2026-03-26 18:59:10,893 - Orchestrator - INFO - Dashboard Update: 60s
+2026-03-26 18:59:10,893 - Orchestrator - INFO - ============================================================
+2026-03-26 18:59:10,893 - Orchestrator - INFO - Starting watcher: simple_file_watcher.py
+2026-03-26 18:59:10,909 - Orchestrator - INFO - File watcher started
+2026-03-26 18:59:10,909 - Orchestrator - INFO - Entering main loop... (Press Ctrl+C to stop)
+2026-03-26 18:59:10,909 - Orchestrator - INFO - 
+2026-03-26 18:59:10,909 - Orchestrator - INFO - 
+============================================================
+2026-03-26 18:59:10,909 - Orchestrator - INFO - Processing Cycle 1
+2026-03-26 18:59:10,909 - Orchestrator - INFO - ============================================================
+2026-03-26 18:59:10,909 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 18:59:10,909 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 18:59:10,909 - Orchestrator - INFO - Dashboard updated: 0 pending, 0 completed
+2026-03-26 18:59:40,923 - Orchestrator - INFO - 
+============================================================
+2026-03-26 18:59:40,923 - Orchestrator - INFO - Processing Cycle 7
+2026-03-26 18:59:40,923 - Orchestrator - INFO - ============================================================
+2026-03-26 18:59:40,923 - Orchestrator - INFO - Processing 2 pending item(s)
+2026-03-26 18:59:40,923 - Orchestrator - INFO - ============================================================
+2026-03-26 18:59:40,923 - Orchestrator - INFO - Processing: FILE_DROP_Test_file_20260326_185911.md
+2026-03-26 18:59:40,923 - Orchestrator - INFO - Qwen Code output:
+2026-03-26 18:59:40,923 - Orchestrator - INFO - 
+## Analysis
+Standard document. No special handling required.
+
+## Decision
+Processing and filing in Done folder.
+
+MOVE_TO_DONE: FILE_DROP_Test_file_20260326_185911.md
+LOG_ACTION: Processed generic document
+
+2026-03-26 18:59:40,923 - Orchestrator - INFO - Qwen Code decided on 2 action(s)
+2026-03-26 18:59:40,923 - ActionExecutor - INFO - ✓ Moved FILE_DROP_Test_file_20260326_185911.md to Done
+2026-03-26 18:59:40,923 - Orchestrator - INFO -   ✓ Executed: move_to_done -> FILE_DROP_Test_file_20260326_185911.md
+2026-03-26 18:59:40,939 - ActionExecutor - INFO - ✓ Logged: Processed generic document
+2026-03-26 18:59:40,939 - Orchestrator - INFO -   ✓ Executed: log_action -> Processed generic document
+2026-03-26 18:59:40,939 - Orchestrator - INFO - ============================================================
+2026-03-26 18:59:40,939 - Orchestrator - INFO - Processing: FILE_DROP_test_invoice_20260326_185911.md
+2026-03-26 18:59:40,939 - Orchestrator - INFO - Qwen Code output:
+2026-03-26 18:59:40,939 - Orchestrator - INFO - 
+## Analysis
+This is an invoice document without clear amount. Requires human review.
+
+## Decision
+Moving to Pending_Approval for human review.
+
+MOVE_TO_PENDING: FILE_DROP_test_invoice_20260326_185911.md
+LOG_ACTION: Invoice requires manual review
+
+2026-03-26 18:59:40,939 - Orchestrator - INFO - Qwen Code decided on 2 action(s)
+2026-03-26 18:59:40,939 - ActionExecutor - INFO - ✓ Moved FILE_DROP_test_invoice_20260326_185911.md to Pending_Approval (awaiting human review)
+2026-03-26 18:59:40,939 - Orchestrator - INFO -   ✓ Executed: move_to_pending -> FILE_DROP_test_invoice_20260326_185911.md
+2026-03-26 18:59:40,955 - ActionExecutor - INFO - ✓ Logged: Invoice requires manual review
+2026-03-26 18:59:40,955 - Orchestrator - INFO -   ✓ Executed: log_action -> Invoice requires manual review
+2026-03-26 18:59:40,955 - Orchestrator - INFO - Processed 2 pending item(s)
+2026-03-26 18:59:40,955 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 19:00:10,964 - Orchestrator - INFO - 
+============================================================
+2026-03-26 19:00:10,964 - Orchestrator - INFO - Processing Cycle 13
+2026-03-26 19:00:10,964 - Orchestrator - INFO - ============================================================
+2026-03-26 19:00:10,964 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 19:00:10,964 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 19:00:11,208 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:00:41,233 - Orchestrator - INFO - 
+============================================================
+2026-03-26 19:00:41,233 - Orchestrator - INFO - Processing Cycle 19
+2026-03-26 19:00:41,236 - Orchestrator - INFO - ============================================================
+2026-03-26 19:00:41,238 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 19:00:41,239 - Orchestrator - INFO - Processing 1 approved item(s)
+2026-03-26 19:00:41,241 - ActionExecutor - INFO - ✓ Moved approved FILE_DROP_test_invoice_20260326_185911.md to Done
+2026-03-26 19:00:41,242 - Orchestrator - INFO - Processed approved file: FILE_DROP_test_invoice_20260326_185911.md
+2026-03-26 19:00:41,244 - Orchestrator - INFO - Processed 1 approved item(s)
+2026-03-26 19:01:11,264 - Orchestrator - INFO - 
+============================================================
+2026-03-26 19:01:11,264 - Orchestrator - INFO - Processing Cycle 25
+2026-03-26 19:01:11,264 - Orchestrator - INFO - ============================================================
+2026-03-26 19:01:11,264 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 19:01:11,264 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 19:01:11,264 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 19:01:41,278 - Orchestrator - INFO - 
+============================================================
+2026-03-26 19:01:41,278 - Orchestrator - INFO - Processing Cycle 31
+2026-03-26 19:01:41,281 - Orchestrator - INFO - ============================================================
+2026-03-26 19:01:41,283 - Orchestrator - INFO - Processed 0 pending item(s)
+2026-03-26 19:01:41,284 - Orchestrator - INFO - Processed 0 approved item(s)
+2026-03-26 19:01:54,231 - Orchestrator - INFO - 
+2026-03-26 19:01:54,231 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-26 19:01:54,238 - Orchestrator - INFO - Dashboard updated: 0 pending, 2 completed
+2026-03-26 19:01:54,239 - Orchestrator - INFO - Stopping all watchers...
+2026-03-26 19:01:54,245 - Orchestrator - INFO - Watcher terminated: 13712
+2026-03-26 19:01:54,245 - Orchestrator - INFO - Orchestrator shutdown complete
+2026-03-26 19:28:04,573 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 0 done
+2026-03-26 19:28:04,573 - INFO - 
+############################################################
+2026-03-26 19:28:04,573 - INFO - CYCLE 1 - Checking for files...
+2026-03-26 19:28:04,573 - INFO - ############################################################
+2026-03-26 19:28:04,589 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 0 done
+2026-03-26 19:28:14,592 - INFO - 
+############################################################
+2026-03-26 19:28:14,592 - INFO - CYCLE 2 - Checking for files...
+2026-03-26 19:28:14,592 - INFO - ############################################################
+2026-03-26 19:28:14,592 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 0 done
+2026-03-26 19:28:24,597 - INFO - 
+############################################################
+2026-03-26 19:28:24,597 - INFO - CYCLE 3 - Checking for files...
+2026-03-26 19:28:24,598 - INFO - ############################################################
+2026-03-26 19:28:24,602 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 0 done
+2026-03-26 19:28:34,603 - INFO - 
+############################################################
+2026-03-26 19:28:34,603 - INFO - CYCLE 4 - Checking for files...
+2026-03-26 19:28:34,603 - INFO - ############################################################
+2026-03-26 19:28:34,603 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 0 done
+2026-03-26 19:28:44,608 - INFO - 
+############################################################
+2026-03-26 19:28:44,608 - INFO - CYCLE 5 - Checking for files...
+2026-03-26 19:28:44,608 - INFO - ############################################################
+2026-03-26 19:28:44,608 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 0 done
+2026-03-26 19:28:54,617 - INFO - 
+############################################################
+2026-03-26 19:28:54,617 - INFO - CYCLE 6 - Checking for files...
+2026-03-26 19:28:54,617 - INFO - ############################################################
+2026-03-26 19:28:54,617 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 0 done
+2026-03-26 19:29:04,626 - INFO - 
+############################################################
+2026-03-26 19:29:04,626 - INFO - CYCLE 7 - Checking for files...
+2026-03-26 19:29:04,626 - INFO - ############################################################
+2026-03-26 19:29:04,626 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 0 done
+2026-03-26 19:29:14,635 - INFO - 
+############################################################
+2026-03-26 19:29:14,635 - INFO - CYCLE 8 - Checking for files...
+2026-03-26 19:29:14,643 - INFO - ############################################################
+2026-03-26 19:29:14,655 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 0 done
+2026-03-26 19:29:24,657 - INFO - 
+############################################################
+2026-03-26 19:29:24,657 - INFO - CYCLE 9 - Checking for files...
+2026-03-26 19:29:24,657 - INFO - ############################################################
+2026-03-26 19:29:24,657 - INFO - 
+============================================================
+2026-03-26 19:29:24,657 - INFO - 📁 New file detected: talk.md
+2026-03-26 19:29:24,657 - INFO - ✓ Created action file: FILE_DROP_talk_20260326_192924.md
+2026-03-26 19:29:24,657 - INFO - 🤖 TRIGGERING QWEN CODE for: FILE_DROP_talk_20260326_192924.md
+2026-03-26 19:29:24,673 - INFO - ✅ QWEN CODE DECISION RECEIVED
+2026-03-26 19:29:24,673 - INFO - 
+🤖 QWEN CODE OUTPUT:
+
+## Analysis
+Standard document without special handling requirements.
+No sensitive content or action items detected.
+
+## Decision
+Processing and filing as complete.
+
+MOVE_TO_DONE: FILE_DROP_talk_20260326_192924.md
+LOG_ACTION: Processed generic document
+...
+2026-03-26 19:29:24,673 - INFO - 📋 Qwen decided on 2 action(s)
+2026-03-26 19:29:24,673 - INFO - ✓ Moved FILE_DROP_talk_20260326_192924.md to Done
+2026-03-26 19:29:24,673 - INFO -   ✅ Executed: move_to_done
+2026-03-26 19:29:24,673 - INFO - ✓ Logged: Processed generic document
+2026-03-26 19:29:24,673 - INFO -   ✅ Executed: log_action
+2026-03-26 19:29:24,673 - INFO - ============================================================
+
+2026-03-26 19:29:24,688 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:29:34,692 - INFO - 
+############################################################
+2026-03-26 19:29:34,692 - INFO - CYCLE 10 - Checking for files...
+2026-03-26 19:29:34,692 - INFO - ############################################################
+2026-03-26 19:29:34,692 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:29:44,701 - INFO - 
+############################################################
+2026-03-26 19:29:44,701 - INFO - CYCLE 11 - Checking for files...
+2026-03-26 19:29:44,701 - INFO - ############################################################
+2026-03-26 19:29:44,701 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:29:54,708 - INFO - 
+############################################################
+2026-03-26 19:29:54,708 - INFO - CYCLE 12 - Checking for files...
+2026-03-26 19:29:54,709 - INFO - ############################################################
+2026-03-26 19:29:54,715 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:30:04,719 - INFO - 
+############################################################
+2026-03-26 19:30:04,720 - INFO - CYCLE 13 - Checking for files...
+2026-03-26 19:30:04,721 - INFO - ############################################################
+2026-03-26 19:30:04,724 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:30:14,746 - INFO - 
+############################################################
+2026-03-26 19:30:14,765 - INFO - CYCLE 14 - Checking for files...
+2026-03-26 19:30:14,767 - INFO - ############################################################
+2026-03-26 19:30:14,783 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:30:24,785 - INFO - 
+############################################################
+2026-03-26 19:30:24,785 - INFO - CYCLE 15 - Checking for files...
+2026-03-26 19:30:24,785 - INFO - ############################################################
+2026-03-26 19:30:24,785 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:30:34,791 - INFO - 
+############################################################
+2026-03-26 19:30:34,791 - INFO - CYCLE 16 - Checking for files...
+2026-03-26 19:30:34,791 - INFO - ############################################################
+2026-03-26 19:30:34,791 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:30:44,801 - INFO - 
+############################################################
+2026-03-26 19:30:44,802 - INFO - CYCLE 17 - Checking for files...
+2026-03-26 19:30:44,804 - INFO - ############################################################
+2026-03-26 19:30:44,806 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:30:54,810 - INFO - 
+############################################################
+2026-03-26 19:30:54,811 - INFO - CYCLE 18 - Checking for files...
+2026-03-26 19:30:54,812 - INFO - ############################################################
+2026-03-26 19:30:54,818 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:31:04,819 - INFO - 
+############################################################
+2026-03-26 19:31:04,819 - INFO - CYCLE 19 - Checking for files...
+2026-03-26 19:31:04,820 - INFO - ############################################################
+2026-03-26 19:31:04,827 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:31:14,835 - INFO - 
+############################################################
+2026-03-26 19:31:14,837 - INFO - CYCLE 20 - Checking for files...
+2026-03-26 19:31:14,838 - INFO - ############################################################
+2026-03-26 19:31:14,849 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:31:24,856 - INFO - 
+############################################################
+2026-03-26 19:31:24,857 - INFO - CYCLE 21 - Checking for files...
+2026-03-26 19:31:24,857 - INFO - ############################################################
+2026-03-26 19:31:24,864 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:31:34,870 - INFO - 
+############################################################
+2026-03-26 19:31:34,871 - INFO - CYCLE 22 - Checking for files...
+2026-03-26 19:31:34,873 - INFO - ############################################################
+2026-03-26 19:31:34,889 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:31:44,914 - INFO - 
+############################################################
+2026-03-26 19:31:44,916 - INFO - CYCLE 23 - Checking for files...
+2026-03-26 19:31:44,917 - INFO - ############################################################
+2026-03-26 19:31:44,928 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:31:54,930 - INFO - 
+############################################################
+2026-03-26 19:31:54,930 - INFO - CYCLE 24 - Checking for files...
+2026-03-26 19:31:54,931 - INFO - ############################################################
+2026-03-26 19:31:54,938 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:32:04,938 - INFO - 
+############################################################
+2026-03-26 19:32:04,938 - INFO - CYCLE 25 - Checking for files...
+2026-03-26 19:32:04,941 - INFO - ############################################################
+2026-03-26 19:32:04,946 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:32:14,947 - INFO - 
+############################################################
+2026-03-26 19:32:14,948 - INFO - CYCLE 26 - Checking for files...
+2026-03-26 19:32:14,949 - INFO - ############################################################
+2026-03-26 19:32:14,954 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:32:24,955 - INFO - 
+############################################################
+2026-03-26 19:32:24,955 - INFO - CYCLE 27 - Checking for files...
+2026-03-26 19:32:24,956 - INFO - ############################################################
+2026-03-26 19:32:24,962 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:32:34,963 - INFO - 
+############################################################
+2026-03-26 19:32:34,963 - INFO - CYCLE 28 - Checking for files...
+2026-03-26 19:32:34,963 - INFO - ############################################################
+2026-03-26 19:32:34,963 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:32:44,970 - INFO - 
+############################################################
+2026-03-26 19:32:44,970 - INFO - CYCLE 29 - Checking for files...
+2026-03-26 19:32:44,970 - INFO - ############################################################
+2026-03-26 19:32:44,970 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:32:54,976 - INFO - 
+############################################################
+2026-03-26 19:32:54,976 - INFO - CYCLE 30 - Checking for files...
+2026-03-26 19:32:54,976 - INFO - ############################################################
+2026-03-26 19:32:54,983 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:33:04,985 - INFO - 
+############################################################
+2026-03-26 19:33:04,985 - INFO - CYCLE 31 - Checking for files...
+2026-03-26 19:33:04,985 - INFO - ############################################################
+2026-03-26 19:33:04,985 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:33:14,991 - INFO - 
+############################################################
+2026-03-26 19:33:14,991 - INFO - CYCLE 32 - Checking for files...
+2026-03-26 19:33:14,991 - INFO - ############################################################
+2026-03-26 19:33:14,991 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:33:24,997 - INFO - 
+############################################################
+2026-03-26 19:33:24,997 - INFO - CYCLE 33 - Checking for files...
+2026-03-26 19:33:24,997 - INFO - ############################################################
+2026-03-26 19:33:24,997 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:33:35,004 - INFO - 
+############################################################
+2026-03-26 19:33:35,004 - INFO - CYCLE 34 - Checking for files...
+2026-03-26 19:33:35,004 - INFO - ############################################################
+2026-03-26 19:33:35,004 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:33:45,011 - INFO - 
+############################################################
+2026-03-26 19:33:45,011 - INFO - CYCLE 35 - Checking for files...
+2026-03-26 19:33:45,011 - INFO - ############################################################
+2026-03-26 19:33:45,011 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:33:55,018 - INFO - 
+############################################################
+2026-03-26 19:33:55,019 - INFO - CYCLE 36 - Checking for files...
+2026-03-26 19:33:55,020 - INFO - ############################################################
+2026-03-26 19:33:55,030 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:34:05,032 - INFO - 
+############################################################
+2026-03-26 19:34:05,032 - INFO - CYCLE 37 - Checking for files...
+2026-03-26 19:34:05,033 - INFO - ############################################################
+2026-03-26 19:34:05,037 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:34:15,039 - INFO - 
+############################################################
+2026-03-26 19:34:15,039 - INFO - CYCLE 38 - Checking for files...
+2026-03-26 19:34:15,039 - INFO - ############################################################
+2026-03-26 19:34:15,039 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:34:25,045 - INFO - 
+############################################################
+2026-03-26 19:34:25,045 - INFO - CYCLE 39 - Checking for files...
+2026-03-26 19:34:25,045 - INFO - ############################################################
+2026-03-26 19:34:25,045 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:34:35,054 - INFO - 
+############################################################
+2026-03-26 19:34:35,054 - INFO - CYCLE 40 - Checking for files...
+2026-03-26 19:34:35,055 - INFO - ############################################################
+2026-03-26 19:34:35,060 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:34:45,062 - INFO - 
+############################################################
+2026-03-26 19:34:45,062 - INFO - CYCLE 41 - Checking for files...
+2026-03-26 19:34:45,062 - INFO - ############################################################
+2026-03-26 19:34:45,069 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:34:55,071 - INFO - 
+############################################################
+2026-03-26 19:34:55,071 - INFO - CYCLE 42 - Checking for files...
+2026-03-26 19:34:55,071 - INFO - ############################################################
+2026-03-26 19:34:55,071 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:35:05,078 - INFO - 
+############################################################
+2026-03-26 19:35:05,078 - INFO - CYCLE 43 - Checking for files...
+2026-03-26 19:35:05,078 - INFO - ############################################################
+2026-03-26 19:35:05,078 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:35:15,085 - INFO - 
+############################################################
+2026-03-26 19:35:15,085 - INFO - CYCLE 44 - Checking for files...
+2026-03-26 19:35:15,087 - INFO - ############################################################
+2026-03-26 19:35:15,092 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:35:25,094 - INFO - 
+############################################################
+2026-03-26 19:35:25,094 - INFO - CYCLE 45 - Checking for files...
+2026-03-26 19:35:25,094 - INFO - ############################################################
+2026-03-26 19:35:25,094 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:35:35,101 - INFO - 
+############################################################
+2026-03-26 19:35:35,101 - INFO - CYCLE 46 - Checking for files...
+2026-03-26 19:35:35,101 - INFO - ############################################################
+2026-03-26 19:35:35,101 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:35:45,108 - INFO - 
+############################################################
+2026-03-26 19:35:45,108 - INFO - CYCLE 47 - Checking for files...
+2026-03-26 19:35:45,108 - INFO - ############################################################
+2026-03-26 19:35:45,108 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:35:45,405 - INFO - 
+⛔ Stopped by user
+2026-03-26 19:35:45,405 - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 1 done
+2026-03-26 19:35:45,405 - INFO - ✅ Shutdown complete
+2026-03-26 19:44:21,432 - Orchestrator - INFO - Orchestrator initialized for vault: AI_Employee_Vault
+2026-03-26 19:44:21,432 - Orchestrator - INFO - ==================================================
+2026-03-26 19:44:21,432 - Orchestrator - INFO - AI Employee Orchestrator starting
+2026-03-26 19:44:21,432 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-26 19:44:21,432 - Orchestrator - INFO - Check interval: 30s
+2026-03-26 19:44:21,432 - Orchestrator - INFO - ==================================================
+2026-03-26 19:44:21,448 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:44:51,451 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:45:21,670 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:45:51,672 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:46:21,678 - Orchestrator - INFO - Found 1 pending item(s)
+2026-03-26 19:46:21,788 - Orchestrator - INFO - Triggering Qwen Code: I have 1 item(s) in /Needs_Action that need proces...
+2026-03-26 19:46:46,262 - Orchestrator - INFO - Qwen Code completed successfully
+2026-03-26 19:46:46,262 - Orchestrator - INFO - Marked 1 file(s) as processed
+2026-03-26 19:46:46,262 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:47:16,269 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:47:46,277 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:48:16,284 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:50:11,629 - Orchestrator - INFO - Orchestrator initialized for vault: AI_Employee_Vault
+2026-03-26 19:50:11,629 - Orchestrator - INFO - ==================================================
+2026-03-26 19:50:11,629 - Orchestrator - INFO - AI Employee Orchestrator starting
+2026-03-26 19:50:11,629 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-26 19:50:11,629 - Orchestrator - INFO - Check interval: 30s
+2026-03-26 19:50:11,629 - Orchestrator - INFO - ==================================================
+2026-03-26 19:50:11,629 - Orchestrator - INFO - Found 1 pending item(s)
+2026-03-26 19:50:11,676 - Orchestrator - INFO - Triggering Qwen Code: I have 1 item(s) in /Needs_Action that need proces...
+2026-03-26 19:50:43,573 - Orchestrator - INFO - Qwen Code completed successfully
+2026-03-26 19:50:43,573 - Orchestrator - INFO - Marked 1 file(s) as processed
+2026-03-26 19:50:43,588 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:51:13,591 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:51:43,600 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:52:09,816 - Orchestrator - INFO - Orchestrator initialized for vault: AI_Employee_Vault
+2026-03-26 19:52:09,816 - Orchestrator - INFO - ==================================================
+2026-03-26 19:52:09,816 - Orchestrator - INFO - AI Employee Orchestrator starting
+2026-03-26 19:52:09,816 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-26 19:52:09,816 - Orchestrator - INFO - Check interval: 30s
+2026-03-26 19:52:09,816 - Orchestrator - INFO - ==================================================
+2026-03-26 19:52:09,816 - Orchestrator - INFO - Found 1 pending item(s)
+2026-03-26 19:52:09,847 - Orchestrator - INFO - Triggering Qwen Code: I have 1 item(s) in /Needs_Action that need proces...
+2026-03-26 19:52:13,607 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:52:43,615 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:52:58,473 - Orchestrator - INFO - Qwen Code completed successfully
+2026-03-26 19:52:58,473 - Orchestrator - ERROR - Error triggering Qwen Code: 'NoneType' object is not subscriptable
+2026-03-26 19:52:58,473 - Orchestrator - WARNING - Qwen Code processing failed
+2026-03-26 19:52:58,488 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:53:13,631 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:53:28,491 - Orchestrator - INFO - Found 1 pending item(s)
+2026-03-26 19:53:28,491 - Orchestrator - INFO - Triggering Qwen Code: I have 1 item(s) in /Needs_Action that need proces...
+2026-03-26 19:53:43,632 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:53:55,527 - Orchestrator - INFO - Qwen Code completed successfully
+2026-03-26 19:53:55,527 - Orchestrator - INFO - Marked 1 file(s) as processed
+2026-03-26 19:53:55,543 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:54:13,640 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:54:25,545 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:54:43,650 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:54:55,564 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:55:13,659 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:55:25,566 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:55:43,667 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:55:55,580 - Orchestrator - INFO - Dashboard updated: 1 pending, 1 completed
+2026-03-26 19:56:13,681 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:56:25,585 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:56:43,684 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:56:55,592 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:57:13,691 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:57:25,599 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:57:43,699 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:57:55,607 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 19:58:13,710 - Orchestrator - INFO - Dashboard updated: 0 pending, 1 completed
+2026-03-26 22:25:43,185 - Orchestrator - INFO - Orchestrator initialized for vault: AI_Employee_Vault
+2026-03-26 22:25:43,185 - Orchestrator - INFO - ============================================================
+2026-03-26 22:25:43,185 - Orchestrator - INFO - AI Employee System Starting
+2026-03-26 22:25:43,185 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-26 22:25:43,185 - Orchestrator - INFO - Check interval: 30s
+2026-03-26 22:25:43,185 - Orchestrator - INFO - Workflow: Watcher → Needs_Action → Qwen Code → Decision
+2026-03-26 22:25:43,201 - Orchestrator - INFO - ============================================================
+2026-03-26 22:25:43,201 - Orchestrator - INFO - 📁 New file detected: talk.md
+2026-03-26 22:25:43,201 - FileWatcher - INFO - ✓ Copied to Inbox: talk.md
+2026-03-26 22:25:43,201 - FileWatcher - INFO - ✓ Created action file: document_talk_20260326_222543.md
+2026-03-26 22:25:43,201 - Orchestrator - INFO - 📁 New file detected: test_message.md
+2026-03-26 22:25:43,216 - FileWatcher - INFO - ✓ Copied to Inbox: test_message.md
+2026-03-26 22:25:43,216 - FileWatcher - INFO - ✓ Created action file: document_test_message_20260326_222543.md
+2026-03-26 22:25:43,216 - Orchestrator - INFO - 📁 Found 2 pending item(s)
+2026-03-26 22:25:43,216 - Orchestrator - INFO - 
+============================================================
+2026-03-26 22:25:43,216 - Orchestrator - INFO - Processing: document_talk_20260326_222543.md
+2026-03-26 22:25:43,279 - Orchestrator - INFO - 🤖 TRIGGERING QWEN CODE...
+2026-03-26 22:26:27,114 - Orchestrator - INFO - ✅ Qwen Code completed
+2026-03-26 22:26:27,114 - Orchestrator - INFO - 📝 QWEN OUTPUT:
+I don't have the necessary permissions to process files directly. Here's my analysis and recommended actions:
+
+---
+
+## Processing Summary
+
+**Files Found:** 2 action files in `/Needs_Action/`
+
+| File | Source | Content | Status |
+|------|--------|---------|--------|
+| `document_talk_20260326_222543.md` | talk.md | "hello how are you qwen code" | Ready to complete |
+| `document_test_message_20260326_222543.md` | test_message.md | "How are you Qwen Code?" | Ready to complete |
+
+**Analysis:** Both a...
+2026-03-26 22:26:27,114 - Orchestrator - INFO - ✓ Moved to Done: document_talk_20260326_222543.md
+2026-03-26 22:26:27,114 - Orchestrator - INFO - ============================================================
+
+2026-03-26 22:26:27,114 - Orchestrator - INFO - 
+============================================================
+2026-03-26 22:26:27,114 - Orchestrator - INFO - Processing: document_test_message_20260326_222543.md
+2026-03-26 22:26:27,114 - Orchestrator - INFO - 🤖 TRIGGERING QWEN CODE...
+2026-03-26 22:27:25,374 - Orchestrator - INFO - ✅ Qwen Code completed
+2026-03-26 22:27:25,374 - Orchestrator - INFO - 📝 QWEN OUTPUT:
+I don't have permission to move files via shell command. You'll need to move the file manually, or I can provide you with the completed status.
+
+---
+
+**Task Status:** âœ… **Complete**
+
+**Summary:**
+- Processed test greeting message
+- Responded to "How are you Qwen Code?"
+- Ready for next action file
+
+**Next Step:** Please move `document_test_message_20260326_222543.md` from `/Needs_Action/` to `/Done/` to mark this task as completed in the workflow....
+2026-03-26 22:27:25,374 - Orchestrator - INFO - ✓ Moved to Done: document_test_message_20260326_222543.md
+2026-03-26 22:27:25,374 - Orchestrator - INFO - ============================================================
+
+2026-03-26 22:27:25,390 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 3 done
+2026-03-26 22:27:55,394 - Orchestrator - INFO - 📁 New file detected: test_message.md
+2026-03-26 22:27:55,399 - FileWatcher - INFO - ✓ Copied to Inbox: test_message.md
+2026-03-26 22:27:55,401 - FileWatcher - INFO - ✓ Created action file: document_test_message_20260326_222755.md
+2026-03-26 22:27:55,403 - Orchestrator - INFO - 📁 Found 1 pending item(s)
+2026-03-26 22:27:55,403 - Orchestrator - INFO - 
+============================================================
+2026-03-26 22:27:55,404 - Orchestrator - INFO - Processing: document_test_message_20260326_222755.md
+2026-03-26 22:27:55,405 - Orchestrator - INFO - 🤖 TRIGGERING QWEN CODE...
+2026-03-26 22:28:08,222 - Orchestrator - INFO - ✅ Qwen Code completed
+2026-03-26 22:28:08,222 - Orchestrator - INFO - 📝 QWEN OUTPUT:
+I'd be happy to help process an action file! However, I don't see a specific file attached or referenced in your message.
+
+To process an action file, I need to know:
+
+1. **Which file** should I process? (file path or name)
+2. **What action** should I take? (e.g., review, summarize, execute, move to another folder)
+
+Could you please provide the file path or specify which file in the vault you'd like me to work with? For example:
+- A file in `/Needs_Action/`
+- A file in `/Pending_Approval/`
+- A sp...
+2026-03-26 22:28:08,222 - Orchestrator - INFO - ✓ Moved to Pending_Approval: document_test_message_20260326_222755.md
+2026-03-26 22:28:08,222 - Orchestrator - INFO - ============================================================
+
+2026-03-26 22:28:08,241 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:28:38,242 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:29:08,251 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:29:38,263 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:30:08,272 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:30:38,282 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:31:08,301 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:31:38,302 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:32:08,313 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:32:38,322 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:33:08,331 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:33:38,339 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 1 awaiting, 3 done
+2026-03-26 22:34:18,085 - Orchestrator - INFO - Orchestrator initialized for vault: AI_Employee_Vault
+2026-03-26 22:34:18,085 - Orchestrator - INFO - ==================================================
+2026-03-26 22:34:18,100 - Orchestrator - INFO - AI Employee Orchestrator starting
+2026-03-26 22:34:18,100 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-26 22:34:18,100 - Orchestrator - INFO - Check interval: 30s
+2026-03-26 22:34:18,116 - Orchestrator - INFO - ==================================================
+2026-03-26 22:34:18,116 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:34:48,148 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:35:18,149 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:35:48,157 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:36:18,166 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:36:48,175 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:37:18,191 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:37:48,193 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:38:18,201 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:38:48,216 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:39:18,218 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:39:48,226 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:40:18,234 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:40:48,251 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:41:18,253 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:41:48,261 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:42:18,272 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:42:48,280 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:43:18,316 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:43:48,329 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:44:18,331 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:44:48,339 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:45:18,358 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:45:48,427 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:46:18,451 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:46:48,463 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:47:18,467 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:47:48,480 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:48:18,502 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:48:48,512 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:49:18,513 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:49:48,541 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:50:18,550 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:50:48,552 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:51:18,577 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:51:48,580 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:52:18,619 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:52:48,630 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:53:18,640 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:53:48,650 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:54:18,658 - Orchestrator - INFO - Dashboard updated: 0 pending, 3 completed
+2026-03-26 22:54:48,666 - Orchestrator - INFO - Found 1 approved item(s) ready for action
+2026-03-26 22:54:48,666 - Orchestrator - INFO - Processing: document_test_message_20260326_222755.md
+2026-03-26 22:54:48,666 - Orchestrator - INFO - Action type: 
+2026-03-26 22:54:48,666 - Orchestrator - INFO - Unknown action type: 
+2026-03-26 22:54:48,666 - Orchestrator - INFO - Moved to Done: document_test_message_20260326_222755.md
+2026-03-26 22:54:48,682 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 22:55:18,705 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 22:55:48,708 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 22:56:18,716 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 22:56:48,725 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 22:57:18,735 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 22:57:48,744 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 22:58:18,754 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 22:58:48,777 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 22:59:18,778 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 22:59:48,786 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:00:18,796 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:00:48,807 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:01:18,816 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:01:48,825 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:02:18,834 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:02:48,843 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:03:18,852 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:03:48,861 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:04:18,869 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:04:48,877 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:04:56,650 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-26 23:04:56,666 - Orchestrator - INFO - Dashboard updated: 0 pending, 4 completed
+2026-03-26 23:04:56,666 - Orchestrator - INFO - Orchestrator shutdown complete
+2026-03-26 23:05:00,822 - Orchestrator - INFO - Orchestrator initialized for vault: AI_Employee_Vault
+2026-03-26 23:05:00,822 - Orchestrator - INFO - ============================================================
+2026-03-26 23:05:00,822 - Orchestrator - INFO - AI Employee System Starting
+2026-03-26 23:05:00,822 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-26 23:05:00,822 - Orchestrator - INFO - Check interval: 30s
+2026-03-26 23:05:00,822 - Orchestrator - INFO - Workflow: Watcher → Needs_Action → Qwen Code → Decision
+2026-03-26 23:05:00,822 - Orchestrator - INFO - ============================================================
+2026-03-26 23:05:00,822 - Orchestrator - INFO - 📁 New file detected: deposit.md
+2026-03-26 23:05:00,838 - FileWatcher - INFO - ✓ Copied to Inbox: deposit.md
+2026-03-26 23:05:00,838 - FileWatcher - INFO - ✓ Created action file: deposit_deposit_20260326_230500.md
+2026-03-26 23:05:00,838 - Orchestrator - INFO - 📁 New file detected: talk.md
+2026-03-26 23:05:00,838 - FileWatcher - INFO - ✓ Copied to Inbox: talk.md
+2026-03-26 23:05:00,838 - FileWatcher - INFO - ✓ Created action file: document_talk_20260326_230500.md
+2026-03-26 23:05:00,838 - Orchestrator - INFO - 📁 New file detected: test_message.md
+2026-03-26 23:05:00,854 - FileWatcher - INFO - ✓ Copied to Inbox: test_message.md
+2026-03-26 23:05:00,854 - FileWatcher - INFO - ✓ Created action file: document_test_message_20260326_230500.md
+2026-03-26 23:05:00,854 - Orchestrator - INFO - 📁 Found 3 pending item(s)
+2026-03-26 23:05:00,854 - Orchestrator - INFO - 
+============================================================
+2026-03-26 23:05:00,854 - Orchestrator - INFO - Processing: deposit_deposit_20260326_230500.md
+2026-03-26 23:05:00,916 - Orchestrator - INFO - 🤖 TRIGGERING QWEN CODE...
+2026-03-26 23:05:23,478 - Orchestrator - INFO - ✅ Qwen Code completed
+2026-03-26 23:05:23,478 - Orchestrator - INFO - 📝 QWEN OUTPUT:
+I'd be happy to help process an action file! However, I don't see a specific file attached or referenced in your message.
+
+Could you please clarify which file you'd like me to process? For example:
+
+1. **A file in `/Needs_Action/`** - Should I process all files there?
+2. **A specific file path** - Please provide the full path
+3. **A file you're about to upload** - Please share the file
+
+Let me know and I'll get started right away!...
+2026-03-26 23:05:23,478 - Orchestrator - INFO - ✓ Moved to Done: deposit_deposit_20260326_230500.md
+2026-03-26 23:05:23,478 - Orchestrator - INFO - ============================================================
+
+2026-03-26 23:05:23,478 - Orchestrator - INFO - 
+============================================================
+2026-03-26 23:05:23,478 - Orchestrator - INFO - Processing: document_talk_20260326_230500.md
+2026-03-26 23:05:23,494 - Orchestrator - INFO - 🤖 TRIGGERING QWEN CODE...
+2026-03-26 23:05:38,701 - Orchestrator - INFO - ✅ Qwen Code completed
+2026-03-26 23:05:38,701 - Orchestrator - INFO - 📝 QWEN OUTPUT:
+I'd be happy to help process an action file! However, I don't see a specific file attached or referenced in your message.
+
+To process an action file, I need to know:
+
+1. **Which file** should I process? (file path or name)
+2. **What type of action** is it? (e.g., email, payment, research, data entry)
+
+You can either:
+- Provide the file path/name
+- Tell me which folder to check (e.g., `/Needs_Action`, `/Approved`, `/Pending_Approval`)
+- Share the file content directly
+
+Where is the action file lo...
+2026-03-26 23:05:38,701 - Orchestrator - INFO - ✓ Moved to Pending_Approval: document_talk_20260326_230500.md
+2026-03-26 23:05:38,701 - Orchestrator - INFO - ============================================================
+
+2026-03-26 23:05:38,701 - Orchestrator - INFO - 
+============================================================
+2026-03-26 23:05:38,701 - Orchestrator - INFO - Processing: document_test_message_20260326_230500.md
+2026-03-26 23:05:38,701 - Orchestrator - INFO - 🤖 TRIGGERING QWEN CODE...
+2026-03-26 23:05:51,787 - Orchestrator - INFO - ✅ Qwen Code completed
+2026-03-26 23:05:51,787 - Orchestrator - INFO - 📝 QWEN OUTPUT:
+I'd be happy to help process an action file! However, I don't see a specific file attached or referenced in your message.
+
+To process an action file, I need to know:
+
+1. **Which file** should I process? (file path or name)
+2. **What type of action** is it? (e.g., email, payment, research, data entry)
+
+You can either:
+- Provide the file path/name
+- Tell me which folder to check (e.g., `/Needs_Action`, `/Approved`, `/Pending_Approval`)
+- Share the file content directly
+
+Where is the action file lo...
+2026-03-26 23:05:51,803 - Orchestrator - INFO - ✓ Moved to Pending_Approval: document_test_message_20260326_230500.md
+2026-03-26 23:05:51,803 - Orchestrator - INFO - ============================================================
+
+2026-03-26 23:05:51,820 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 2 awaiting, 5 done
+2026-03-26 23:06:21,821 - Orchestrator - INFO - 📁 New file detected: deposit.md
+2026-03-26 23:06:21,821 - FileWatcher - INFO - ✓ Copied to Inbox: deposit.md
+2026-03-26 23:06:21,821 - FileWatcher - INFO - ✓ Created action file: deposit_deposit_20260326_230621.md
+2026-03-26 23:06:21,821 - Orchestrator - INFO - 📁 Found 1 pending item(s)
+2026-03-26 23:06:21,821 - Orchestrator - INFO - 
+============================================================
+2026-03-26 23:06:21,821 - Orchestrator - INFO - Processing: deposit_deposit_20260326_230621.md
+2026-03-26 23:06:21,837 - Orchestrator - INFO - 🤖 TRIGGERING QWEN CODE...
+2026-03-26 23:06:38,248 - Orchestrator - INFO - ✅ Qwen Code completed
+2026-03-26 23:06:38,248 - Orchestrator - INFO - 📝 QWEN OUTPUT:
+I'd be happy to help process an action file! However, I don't see a specific file attached or referenced in your message.
+
+Could you please clarify:
+
+1. **Which file** should I process? (e.g., a file in `/Needs_Action`, `/Approved`, or a specific path)
+2. **What action** should I take? (e.g., execute a task, create a plan, respond to a request)
+
+You can either:
+- Provide the file path
+- Paste the file contents
+- Move a file to `/Approved/` folder to trigger execution
+
+Once you specify, I'll proc...
+2026-03-26 23:06:38,248 - Orchestrator - INFO - ✓ Moved to Done: deposit_deposit_20260326_230621.md
+2026-03-26 23:06:38,248 - Orchestrator - INFO - ============================================================
+
+2026-03-26 23:06:38,248 - Orchestrator - INFO - ✓ Found 2 approved item(s)
+2026-03-26 23:06:38,248 - Orchestrator - INFO - Processing approved: document_talk_20260326_230500.md
+2026-03-26 23:06:38,248 - Orchestrator - INFO - Action type: 
+2026-03-26 23:06:38,248 - Orchestrator - INFO - ✓ Moved to Done: document_talk_20260326_230500.md
+2026-03-26 23:06:38,248 - Orchestrator - INFO - Processing approved: document_test_message_20260326_230500.md
+2026-03-26 23:06:38,268 - Orchestrator - INFO - Action type: 
+2026-03-26 23:06:38,270 - Orchestrator - INFO - ✓ Moved to Done: document_test_message_20260326_230500.md
+2026-03-26 23:06:38,281 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 8 done
+2026-03-26 23:07:08,307 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 8 done
+2026-03-26 23:07:38,331 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 8 done
+2026-03-26 23:08:08,350 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 8 done
+2026-03-26 23:08:38,373 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 8 done
+2026-03-26 23:09:08,391 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 8 done
+2026-03-26 23:09:38,419 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 8 done
+2026-03-26 23:10:08,438 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 8 done
+2026-03-26 23:10:38,448 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 8 done
+2026-03-26 23:10:39,868 - Orchestrator - INFO - 
+⛔ Stopped by user
+2026-03-26 23:10:39,877 - Orchestrator - INFO - 📊 Dashboard: 0 pending, 0 awaiting, 8 done
+2026-03-26 23:10:39,878 - Orchestrator - INFO - ✅ Shutdown complete
