@@ -11,14 +11,10 @@
             "id": "9938e69ac07d952d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Done/FILE_DROP_talk_20260326_192924.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FILE_DROP_talk_20260326_192924"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Done/FILE_DROP_talk_20260326_192924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FILE_DROP_talk_20260326_192924"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Done/FILE_DROP_talk_20260326_192924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from FILE_DROP_talk_20260326_192924"
+              "title": "Outgoing links"
             }
           },
           {
@@ -183,38 +177,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "9938e69ac07d952d",
+  "active": "738eb32201547a43",
   "lastOpenFiles": [
+    "Logs/2026-03-26.md",
+    "Logs",
+    "Inbox/test_message.md",
+    "Inbox/talk.md",
+    "Inbox/deposit.md",
+    "Inbox",
+    "Drop_Folder/test_message.md",
+    "Drop_Folder/talk.md",
+    "Drop_Folder/deposit.md",
+    "Drop_Folder",
+    "Done/document_talk_20260326_222543.md",
+    "Done/FILE_DROP_talk_20260326_192924.md",
     "Done/document_test_message_20260326_230500.md",
     "Done/document_test_message_20260326_222543.md",
+    "Done/document_test_message_20260326_222755.md",
     "Done/document_talk_20260326_230500.md",
-    "Done/document_talk_20260326_222543.md",
     "Done/deposit_deposit_20260326_230621.md",
     "Done/deposit_deposit_20260326_230500.md",
+    "Done",
+    "Dashboard.md",
     "Approved/document_talk_20260326_230500.md",
     "Needs_Action/deposit_deposit_20260326_230621.md",
     "Approved/document_test_message_20260326_230500.md",
-    "Drop_Folder/deposit.md",
     "Needs_Action/document_test_message_20260326_230500.md",
     "Needs_Action/document_talk_20260326_230500.md",
     "Needs_Action/deposit_deposit_20260326_230500.md",
-    "Inbox/deposit.md",
-    "Done/document_test_message_20260326_222755.md",
-    "Done/FILE_DROP_talk_20260326_192924.md",
-    "Drop_Folder/talk.md",
-    "Logs/2026-03-26.md",
     "Approved/document_test_message_20260326_222755.md",
     "Drop_Folder/create a workflow of my project.md",
     "Needs_Action/document_test_message_20260326_222755.md",
-    "Needs_Action/document_test_message_20260326_222543.md",
-    "Inbox/test_message.md",
-    "Needs_Action/document_talk_20260326_222543.md",
-    "Drop_Folder/test_message.md",
-    "Inbox/talk.md",
     "Drop_Folder/invoice_xyz.txt",
     "Inbox/test_invoice_1.txt",
     "Inbox/test_invoice.txt",
-    "Drop_Folder/test_invoice.txt",
-    "Drop_Folder"
+    "Drop_Folder/test_invoice.txt"
   ]
 }
